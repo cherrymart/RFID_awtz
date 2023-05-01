@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	
-	<title>RFID</title>
+	<title>RFIDS</title>
 </head>
 <body>
 
